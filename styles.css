@@ -1,0 +1,64 @@
+body {
+    background-color: black;
+    color: antiquewhite;
+    font-size: 17px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+        
+
+}
+.profilestuff {
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    margin: auto;
+}
+hr {
+    border-top-style:dashed;
+    border-color: #cfd9de;
+}
+
+img {
+    width: 200px;
+    height: 260px;
+}
+button {
+    color: #0f1419;
+    border: 1px solid #cfd9de;
+    background: white;
+    border-radius: 18px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-weight: bold;
+}
+
+.name {
+    background-color:  #242424;;
+    padding: 1%;
+    margin: 0% auto 0 auto;
+    font-family: 'Jost', sans-serif;
+}
+h4 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #7978FF;
+    font-weight: bold;
+}
+
+
+.bat1 {
+    background-color: #fdff00;
+}
+.bat2 {
+background-color: #988829;
+}
+.bat3{
+background-color: #242424;
+}
+.bat4{
+background-color: #282e3c;
+}
+.bat5{
+background-color: #505c7c;
+}

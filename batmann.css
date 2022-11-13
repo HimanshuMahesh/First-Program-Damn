@@ -1,0 +1,82 @@
+/* TAG SELECTORS */
+
+.TheBatman {
+    background-color:  #242424;;
+    padding: 1%;
+    margin: 0% auto 0 auto;
+    font-family: 'Jost', sans-serif;
+}
+body {
+    background-color: black;
+    background-size: cover;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+h1 { 
+    font-size: x-large;
+    color: #fdff00;
+}
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+    color: #fdff00;
+}
+h3 {
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   color: bisque;
+}
+
+p {
+    color: whitesmoke;
+}
+img {
+    width: 9%;
+}
+.batmanblock2 {
+    width: 46%;
+}
+.batmanblock2:hover {
+    border-radius: 0%;
+}
+
+img:hover {
+    border-radius: 100%;
+    background-color: azure;
+}
+/* CLASS SELECTORS */
+.bat1 {
+     background-color: #fdff00;
+}
+.bat2 {
+background-color: #988829;
+}
+.bat3{
+background-color: #242424;
+}
+.bat4{
+background-color: #282e3c;
+}
+.bat5{
+background-color: #505c7c;
+}
+.block2 {
+    background-color: #282e3c;
+    
+    
+}
+.block3 {
+    background-color: #505c7c;
+    height: 200px;
+    width: 200px;
+    
+}
+.Names {
+    text-decoration: underline coral;
+}
+.skill-row {
+    width: 50%;
+    margin: 0 auto 0 auto;
+    text-align: left;
+    
+}
+
+

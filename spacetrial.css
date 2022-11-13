@@ -1,0 +1,12 @@
+body {
+    background-image: url("spacetrial1.jpg");
+    background-size: cover;
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+}
+.underline {
+    color: aqua;
+    border-bottom: 4px solid whitesmoke;
+}
+
